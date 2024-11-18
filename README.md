@@ -1,7 +1,5 @@
-# Repository with models reading kyrgyzstani id passport (ID1234567 and AN1234567)
+Kyrgyzstani id passport reader.
 
 * Create virtual environment
 * Download dependencies
 * Run test.py on your image
-* Implement to your network
-
